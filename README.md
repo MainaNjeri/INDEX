@@ -20,7 +20,7 @@
     <div>
         <a href="portfolio"></a><a href="projects"></a><a href="">contact</a><a href="service"></a>
     </div>
-    <img src="maina.k.png" alt="maina.k"
+    <img src="maina.k.png" alt="maina.k.png"
     width="200"height="300">
     <div>
         <!--main page content-->
@@ -38,12 +38,10 @@ our new echnology life.Being productive in the society is all i want.
  </p>
 </body>
 <footer>
-    <ul>
-       
         <li> <a href="">Github<i class="fab fa-github-alt fa-2x"></i></a></li>
         <li> <a href="">Twiter<i class="fab fa-github-alt fa-2x"></i></a></li>
         <li> <a href="">Instagram<i class="fab fa-github-alt fa-2x"></i></a></li>
         <li> <a href="">LinkedIn<i class="fab fa-github-alt fa-2x"></i></a></li>
-        <li> <a href="Miltio"></a></li>
-    </ul>
-</footer>INDEX
+  <li> <a href="Miltio"></a></li>
+</footer>
+INDEX
